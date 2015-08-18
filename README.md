@@ -1,2 +1,2 @@
 # javamanyframe
-Java框架（spring,mybatis,ibatis,hibernate,struts）套装
+Java框架（spring,mybatis,ibatis,hibernate,structs）套装
